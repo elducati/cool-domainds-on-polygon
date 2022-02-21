@@ -9,7 +9,7 @@ const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // Add the domain you will be minting
 const tld = '.hero';
-const CONTRACT_ADDRESS = '0xD00B30582859b6353a77B16DCE1e58f241Bb699E';
+const CONTRACT_ADDRESS = '0xDB12FE4296F5c0e6291C2bB6b514227F2168F3a1';
 
 const App = () => {
 	//Just a state variable we use to store our user's public wallet. Don't forget to import useState at the top.
