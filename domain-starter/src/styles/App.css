@@ -64,6 +64,7 @@ header{
   height: 99%;
   margin-right: 10%;
   margin-top: 10px;
+  background-image: linear-gradient(to right, rgb(36, 34, 34) , rgba(0, 255, 242, 0.644));
 }
 
 .content-container {
